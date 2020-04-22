@@ -1,6 +1,6 @@
 # Quasar App
 
-meetup with firebase
+quasar todo with firebase
 
 ## Install the dependencies
 ```bash
